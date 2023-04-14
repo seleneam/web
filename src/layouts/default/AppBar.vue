@@ -1,8 +1,8 @@
 <template>
-  <v-app-bar flat color="light-green-darken-1">
+  <v-app-bar flat color="grey-darken-3">
     <v-app-bar-title>
       <v-icon icon="mdi-vuetify" />
-      MatHaLovers
+      T-Frame
     </v-app-bar-title>
   </v-app-bar>
 </template>

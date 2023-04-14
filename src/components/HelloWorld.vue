@@ -42,7 +42,7 @@
           </v-timeline>
           <v-card-actions>
 
-            <v-btn @click="$event => recargaImagen()" color="green">
+            <v-btn @click="$event => recargaImagen()" color="black">
               RELOAD
             </v-btn>
             
@@ -60,12 +60,12 @@
     messages.value = [
         {
           message: 'I am bothering you?',
-          color: 'green',
+          color: 'black',
         },
        ];
 
         function recargaImagen(){
-         fetch ("https://random.imagecdn.app/500/150")
+         fetch ("https://picsum.photos/650/350?grayscale") //https://random.imagecdn.app/500/150
         .then (r => {
           console.log(r);
           url.value=r.url});
