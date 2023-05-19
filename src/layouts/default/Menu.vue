@@ -7,9 +7,9 @@
         >
           <v-list>
             <v-list-item
-              prepend-avatar="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/275220313_4815796805204099_4477426810893078729_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=9-W-dkxnxIMAX-v0ncP&_nc_ht=scontent-sjc3-1.xx&oh=00_AfCdJZQwRy2Op6ug4GBflBRkf9ZDUVHZ0gZyScwhnnZRVQ&oe=64187CB1"
+              prepend-avatar="https://scontent.ftij2-1.fna.fbcdn.net/v/t39.30808-6/321306344_916095149757471_4948484563748121150_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=5nUe9S0-VZ8AX-_h-F5&_nc_oc=AQk4tr39049Fxxnx2_LnmkIkhyYsSeQBCYg8I6fqc4Xaa_LRr1FSFIVQR46rGM2G4N8&_nc_ht=scontent.ftij2-1.fna&oh=00_AfAL1aM21X-ILsfbSD-JwDvz2frtMyEmp9w4QRykwuUaRg&oe=646C43D"
               title="Selene Muñoz"
-              subtitle="@gmailcom"
+              subtitle="compu@gmailcom"
             ></v-list-item>
           </v-list>
   
